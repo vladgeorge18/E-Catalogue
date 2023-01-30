@@ -1,0 +1,40 @@
+{   
+    "grades": [
+        {
+            "assistant": {
+                "firstName": "Teo",
+                "lastName": "Dutu"
+            },
+            "student": {
+                "firstName": "Bogdan-Andrei",
+                "lastName": "Sprincenatu"
+            },
+            "course": "SO",
+            "grade": "5.99"
+        },
+        {
+            "assistant": {
+                "firstName": "David",
+                "lastName": "Iancu"
+            },
+            "student": {
+                "firstName": "Alexandra-Nicoleta",
+                "lastName": "Duminica"
+            },
+            "course": "AA",
+            "grade": "3"
+        },
+        {
+            "assistant": {
+                "firstName": "David",
+                "lastName": "Iancu"
+            },
+            "student": {
+                "firstName": "Maria",
+                "lastName": "Popescu"
+            },
+            "course": "AA",
+            "grade": "0.01"
+        }
+    ]
+}

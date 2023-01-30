@@ -1,0 +1,252 @@
+{
+    "courses": [
+        {
+            "name": "SO",
+            "credits": "5",
+            "teacher": {
+                "firstName": "Razvan-Adrian",
+                "lastName": "Deaconescu"
+            },
+            "type": "full",
+            "assistants": [
+                {
+                    "firstName": "Teo",
+                    "lastName": "Dutu"
+                },
+                {
+                    "firstName": "Theodor",
+                    "lastName": "Oprea"
+                }
+            ],
+            "grades": [
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "SO",
+                    "student": {
+                        "firstName": "Costin-Cornel",
+                        "lastName": "Bosoaga"
+                    }
+                },
+                {
+                    "partial": "0.0",
+                    "exam":"0.0",
+                    "course": "SO",
+                    "student": {
+                        "firstName": "Bogdan-Andrei",
+                        "lastName": "Sprincenatu"
+                    }
+                },
+                {
+                    "partial": "0",
+                    "exam": "0",
+                    "course": "SO",
+                    "student": {
+                        "firstName": "Alexandra-Nicoleta",
+                        "lastName": "Duminica"
+                    }
+                },
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "SO",
+                    "student": {
+                        "firstName": "Maria",
+                        "lastName": "Popescu"
+                    }
+                }
+            ],
+            "groups": [
+                {
+                    "id": "321",
+                    "assistant": {
+                        "firstName": "Teo",
+                        "lastName": "Dutu"
+                    },
+                    "students": [
+                        {
+                            "firstName": "Bogdan-Andrei",
+                            "lastName": "Sprincenatu"
+                        },
+                        {
+                            "firstName": "Alexandra-Nicoleta",
+                            "lastName": "Duminica"
+                        }
+                    ]
+                },
+                {
+                    "id": "322",
+                    "assistant": {
+                        "firstName": "Theodor",
+                        "lastName": "Oprea"
+                    },
+                    "students": [
+                        {
+                            "firstName": "Costin-Cornel",
+                            "lastName": "Bosoaga"
+                        },
+                        {
+                            "firstName": "Maria",
+                            "lastName": "Popescu"
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "name": "IA4",
+            "credits": "4",
+            "teacher": {
+                "firstName": "Cornel",
+                "lastName": "Popescu"
+            },
+            "type": "partial",
+            "assistants": [
+                {
+                    "firstName": "Luca",
+                    "lastName": "Istrate"
+                }
+            ],
+            "grades": [
+                {
+                    "partial": "0",
+                    "exam": "0",
+                    "course": "IA4",
+                    "student": {
+                        "firstName": "Bogdan-Andrei",
+                        "lastName": "Sprincenatu"
+                    }
+                },
+                {
+                    "partial": "0",
+                    "exam": "0",
+                    "course": "IA4",
+                    "student": {
+                        "firstName": "Alexandra-Nicoleta",
+                        "lastName": "Duminica"
+                    }
+                },
+                {
+                    "partial": "0",
+                    "exam": "0",
+                    "course": "IA4",
+                    "student": {
+                        "firstName": "Maria",
+                        "lastName": "Popescu"
+                    }
+                }
+            ],
+            "groups": [
+                {
+                    "id": "321",
+                    "assistant": {
+                        "firstName": "Luca",
+                        "lastName": "Istrate"
+                    },
+                    "students": [
+                        {
+                            "firstName": "Bogdan-Andrei",
+                            "lastName": "Sprincenatu"
+                        },
+                        {
+                            "firstName": "Alexandra-Nicoleta",
+                            "lastName": "Duminica"
+                        }
+                    ]
+                },
+                {
+                    "id": "322",
+                    "assistant": {
+                        "firstName": "Luca",
+                        "lastName": "Istrate"
+                    },
+                    "students": [
+                       
+                        {
+                            "firstName": "Maria",
+                            "lastName": "Popescu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "AA",
+            "credits": "5",
+            "teacher": {
+                "firstName": "Adrian",
+                "lastName": "Mogos"
+            },
+            "type": "full",
+            "assistants": [
+                {
+                    "firstName": "David",
+                    "lastName": "Iancu"
+                }
+            ],
+            "grades": [
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "AA",
+                    "student": {
+                        "firstName": "Bogdan-Andrei",
+                        "lastName": "Sprincenatu"
+                    }
+                },
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "AA",
+                    "student": {
+                        "firstName": "Alexandra-Nicoleta",
+                        "lastName": "Duminica"
+                    }
+                },
+                {
+                    "partial": "0.0",
+                    "exam": "0",
+                    "course": "AA",
+                    "student": {
+                        "firstName": "Maria",
+                        "lastName": "Popescu"
+                    }
+                }
+            ],
+            "groups": [
+                {
+                    "id": "321",
+                    "assistant": {
+                        "firstName": "David",
+                        "lastName": "Iancu"
+                    },
+                    "students": [
+                        {
+                            "firstName": "Bogdan-Andrei",
+                            "lastName": "Sprincenatu"
+                        },
+                        {
+                            "firstName": "Alexandra-Nicoleta",
+                            "lastName": "Duminica"
+                        }
+                    ]
+                },
+                {
+                    "id": "322",
+                    "assistant": {
+                        "firstName": "David",
+                        "lastName": "Iancu"
+                    },
+                    "students": [
+                       
+                        {
+                            "firstName": "Maria",
+                            "lastName": "Popescu"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

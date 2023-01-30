@@ -1,0 +1,40 @@
+{   
+    "grades": [
+        {
+            "teacher": {
+                "firstName": "Razvan-Adrian",
+                "lastName": "Deaconescu"
+            },
+            "student": {
+                "firstName": "Bogdan-Andrei",
+                "lastName": "Sprincenatu"
+            },
+            "course": "SO",
+            "grade": "3.97"
+        },
+        {
+            "teacher": {
+                "firstName": "Adrian",
+                "lastName": "Mogos"
+            },
+            "student": {
+                "firstName": "Alexandra-Nicoleta",
+                "lastName": "Duminica"
+            },
+            "course": "AA",
+            "grade": "2"
+        },
+        {
+            "teacher": {
+                "firstName": "Adrian",
+                "lastName": "Mogos"
+            },
+            "student": {
+                "firstName": "Maria",
+                "lastName": "Popescu"
+            },
+            "course": "AA",
+            "grade": "0.1"
+        }
+    ]
+}

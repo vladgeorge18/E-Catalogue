@@ -1,0 +1,730 @@
+{
+    "courses": [
+        {
+            "name": "Programare Orientata pe Obiecte",
+            "credits": "5",
+            "teacher": {
+                "firstName": "Ion",
+                "lastName": "Mihalache"
+            },
+            "type": "full",
+            "assistants": [
+                {
+                    "firstName": "Alexandra",
+                    "lastName": "Maria"
+                },
+                {
+                    "firstName": "Andrei",
+                    "lastName": "Georgescu"
+                }
+            ],
+            "grades": [
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "Programare Orientata pe Obiecte",
+                    "student": {
+                        "firstName": "Gigel",
+                        "lastName": "Frone"
+                    }
+                },
+                {
+                    "partial": "0.0",
+                    "exam":"0.0",
+                    "course": "Programare Orientata pe Obiecte",
+                    "student": {
+                        "firstName": "Cosmin",
+                        "lastName": "Andrei"
+                    }
+                },
+                {
+                    "partial": "0",
+                    "exam": "0",
+                    "course": "Programare Orientata pe Obiecte",
+                    "student": {
+                        "firstName": "Ionel",
+                        "lastName": "Dragomir"
+                    }
+                },
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "Programare Orientata pe Obiecte",
+                    "student": {
+                        "firstName": "Florin",
+                        "lastName": "Florea"
+                    }
+                },
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "Programare Orientata pe Obiecte",
+                    "student": {
+                        "firstName": "Costel",
+                        "lastName": "Busuioc"
+                    }
+                },
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "Programare Orientata pe Obiecte",
+                    "student": {
+                        "firstName": "Sebastian",
+                        "lastName": "Moisescu"
+                    }
+                }
+                ,
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "Programare Orientata pe Obiecte",
+                    "student": {
+                        "firstName": "Larisa",
+                        "lastName": "Oana"
+                    }
+                }
+                ,
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "Programare Orientata pe Obiecte",
+                    "student": {
+                        "firstName": "Georgiana",
+                        "lastName": "Calin"
+                    }
+                }
+                ,
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "Programare Orientata pe Obiecte",
+                    "student": {
+                        "firstName": "Dragos",
+                        "lastName": "Barbu"
+                    }
+                }
+                ,
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "Programare Orientata pe Obiecte",
+                    "student": {
+                        "firstName": "Alberto",
+                        "lastName": "Ciobanu"
+                    }
+                }
+            ],
+            "groups": [
+                {
+                    "id": "312CC",
+                    "assistant": {
+                        "firstName": "Andrei",
+                        "lastName": "Georgescu"
+                    },
+                    "students": [
+                        {
+                            "firstName": "Gigel",
+                            "lastName": "Frone"
+                        },
+                        {
+                            "firstName": "Cosmin",
+                            "lastName": "Andrei"
+                        }
+                        ,
+                        {
+                            "firstName": "Ionel",
+                            "lastName": "Dragomir"
+                        }
+                        ,
+                        {
+                            "firstName": "Florin",
+                            "lastName": "Florea"
+                        }
+                        ,
+                        {
+                            "firstName": "Costel",
+                            "lastName": "Busuioc"
+                        }
+                    ]
+                },
+                {
+                    "id": "314CC",
+                    "assistant": {
+                        "firstName": "Alexandra",
+                        "lastName": "Maria"
+                    },
+                    "students": [
+                        {
+                            "firstName": "Sebastian",
+                            "lastName": "Moisescu"
+                        },
+                        {
+                            "firstName": "Larisa",
+                            "lastName": "Oana"
+                        }
+                        ,
+                        {
+                            "firstName": "Georgiana",
+                            "lastName": "Calin"
+                        }
+                        ,
+                        {
+                            "firstName": "Dragos",
+                            "lastName": "Barbu"
+                        }
+                        ,
+                        {
+                            "firstName": "Alberto",
+                            "lastName": "Ciobanu"
+                        }
+                    ]
+                }
+            ]
+        },
+
+        {
+            "name": "Paradigme de programare",
+            "credits": "4",
+            "teacher": {
+                "firstName": "Sonia",
+                "lastName": "Lupu"
+            },
+            "type": "full",
+            "assistants": [
+                {
+                    "firstName": "Florentina",
+                    "lastName": "Bratosin"
+                },
+                {
+                    "firstName": "Horia",
+                    "lastName": "Ghita"
+                }
+            ],
+            "grades": [
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "Paradigme de programare",
+                    "student": {
+                        "firstName": "Gigel",
+                        "lastName": "Frone"
+                    }
+                },
+                {
+                    "partial": "0.0",
+                    "exam":"0.0",
+                    "course": "Paradigme de programare",
+                    "student": {
+                        "firstName": "Cosmin",
+                        "lastName": "Andrei"
+                    }
+                },
+                {
+                    "partial": "0",
+                    "exam": "0",
+                    "course": "Paradigme de programare",
+                    "student": {
+                        "firstName": "Ionel",
+                        "lastName": "Dragomir"
+                    }
+                },
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "Paradigme de programare",
+                    "student": {
+                        "firstName": "Florin",
+                        "lastName": "Florea"
+                    }
+                },
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "Paradigme de programare",
+                    "student": {
+                        "firstName": "Costel",
+                        "lastName": "Busuioc"
+                    }
+                },
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "Paradigme de programare",
+                    "student": {
+                        "firstName": "Sebastian",
+                        "lastName": "Moisescu"
+                    }
+                }
+                ,
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "Paradigme de programare",
+                    "student": {
+                        "firstName": "Larisa",
+                        "lastName": "Oana"
+                    }
+                }
+                ,
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "Paradigme de programare",
+                    "student": {
+                        "firstName": "Georgiana",
+                        "lastName": "Calin"
+                    }
+                }
+                ,
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "Paradigme de programare",
+                    "student": {
+                        "firstName": "Dragos",
+                        "lastName": "Barbu"
+                    }
+                }
+                ,
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "Paradigme de programare",
+                    "student": {
+                        "firstName": "Alberto",
+                        "lastName": "Ciobanu"
+                    }
+                }
+            ],
+            "groups": [
+                {
+                    "id": "312CC",
+                    "assistant": {
+                        "firstName": "Florentina",
+                        "lastName": "Bratosin"
+                    },
+                    "students": [
+                        {
+                            "firstName": "Gigel",
+                            "lastName": "Frone"
+                        },
+                        {
+                            "firstName": "Cosmin",
+                            "lastName": "Andrei"
+                        }
+                        ,
+                        {
+                            "firstName": "Ionel",
+                            "lastName": "Dragomir"
+                        }
+                        ,
+                        {
+                            "firstName": "Florin",
+                            "lastName": "Florea"
+                        }
+                        ,
+                        {
+                            "firstName": "Costel",
+                            "lastName": "Busuioc"
+                        }
+                    ]
+                },
+                {
+                    "id": "314CC",
+                    "assistant": {
+                        "firstName": "Horia",
+                        "lastName": "Ghita"
+                    },
+                    "students": [
+                        {
+                            "firstName": "Sebastian",
+                            "lastName": "Moisescu"
+                        },
+                        {
+                            "firstName": "Larisa",
+                            "lastName": "Oana"
+                        }
+                        ,
+                        {
+                            "firstName": "Georgiana",
+                            "lastName": "Calin"
+                        }
+                        ,
+                        {
+                            "firstName": "Dragos",
+                            "lastName": "Barbu"
+                        }
+                        ,
+                        {
+                            "firstName": "Alberto",
+                            "lastName": "Ciobanu"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Electronica digitala",
+            "credits": "3",
+            "teacher": {
+                "firstName": "George",
+                "lastName": "Dinu"
+            },
+            "type": "partial",
+            "assistants": [
+                {
+                    "firstName": "Emilian",
+                    "lastName": "Voinea"
+                },
+                {
+                    "firstName": "Adrian",
+                    "lastName": "Sava"
+                }
+            ],
+            "grades": [
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "Electronica digitala",
+                    "student": {
+                        "firstName": "Livia",
+                        "lastName": "Ursu"
+                    }
+                },
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "Electronica digitala",
+                    "student": {
+                        "firstName": "Alfred",
+                        "lastName": "Pop"
+                    }
+                },
+                {
+                    "partial": "0.0",
+                    "exam": "0",
+                    "course": "Electronica digitala",
+                    "student": {
+                        "firstName": "Iulian",
+                        "lastName": "Iancu"
+                    }
+                }
+                ,
+                {
+                    "partial": "0.0",
+                    "exam": "0",
+                    "course": "Electronica digitala",
+                    "student": {
+                        "firstName": "Sofia",
+                        "lastName": "Negoita"
+                    }
+                }
+                ,
+                {
+                    "partial": "0.0",
+                    "exam": "0",
+                    "course": "Electronica digitala",
+                    "student": {
+                        "firstName": "Alma",
+                        "lastName": "Dobrica"
+                    }
+                }
+                ,
+                {
+                    "partial": "0.0",
+                    "exam": "0",
+                    "course": "Electronica digitala",
+                    "student": {
+                        "firstName": "Cristian",
+                        "lastName": "Manole"
+                    }
+                }
+                ,
+                {
+                    "partial": "0.0",
+                    "exam": "0",
+                    "course": "Electronica digitala",
+                    "student": {
+                        "firstName": "Denisa",
+                        "lastName": "Pavel"
+                    }
+                }
+                ,
+                {
+                    "partial": "0.0",
+                    "exam": "0",
+                    "course": "Electronica digitala",
+                    "student": {
+                        "firstName": "Alex",
+                        "lastName": "Petrescu"
+                    }
+                }
+                ,
+                {
+                    "partial": "0.0",
+                    "exam": "0",
+                    "course": "Electronica digitala",
+                    "student": {
+                        "firstName": "Cosmin",
+                        "lastName": "Tomulescu"
+                    }
+                },
+                {
+                    "partial": "0.0",
+                    "exam": "0",
+                    "course": "Electronica digitala",
+                    "student": {
+                        "firstName": "Camelia",
+                        "lastName": "Tunaru"
+                    }
+                }
+            ],
+            "groups": [
+                {
+                    "id": "311CC",
+                    "assistant": {
+                        "firstName": "Adrian",
+                        "lastName": "Sava"
+                    },
+                    "students": [
+                        {
+                            "firstName": "Livia",
+                            "lastName": "Ursu"
+                        },
+                        {
+                            "firstName": "Alfred",
+                            "lastName": "Pop"
+                        }
+                        ,
+                        {
+                            "firstName": "Iulian",
+                            "lastName": "Iancu"
+                        } ,
+                        {
+                            "firstName": "Sofia",
+                            "lastName": "Negoita"
+                        }
+                        ,
+                        {
+                            "firstName": "Alma",
+                            "lastName": "Dobrica"
+                        }
+                    ]
+                },
+                {
+                    "id": "313CC",
+                    "assistant": {
+                        "firstName": "Emilian",
+                        "lastName": "Voinea"
+                    },
+                    "students": [
+                       
+                        {
+                            "firstName": "Cristian",
+                            "lastName": "Manole"
+                        } ,
+                        {
+                            "firstName": "Denisa",
+                            "lastName": "Pavel"
+                        } ,
+                        {
+                            "firstName": "Alex",
+                            "lastName": "Petrescu"
+                        } ,
+                        {
+                            "firstName": "Cosmin",
+                            "lastName": "Tomulescu"
+                        }
+                        ,
+                        {
+                            "firstName": "Camelia",
+                            "lastName": "Tunaru"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Sisteme de operare",
+            "credits": "5",
+            "teacher": {
+                "firstName": "Razvan",
+                "lastName": "Calinescu"
+            },
+            "type": "full",
+            "assistants": [
+                {
+                    "firstName": "Alma",
+                    "lastName": "Toma"
+                },
+                {
+                    "firstName": "Cornel",
+                    "lastName": "Cosma"
+                }
+            ],
+            "grades": [
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "Sisteme de operare",
+                    "student": {
+                        "firstName": "Livia",
+                        "lastName": "Ursu"
+                    }
+                },
+                {
+                    "partial": "0.0",
+                    "exam": "0.0",
+                    "course": "Sisteme de operare",
+                    "student": {
+                        "firstName": "Alfred",
+                        "lastName": "Pop"
+                    }
+                },
+                {
+                    "partial": "0.0",
+                    "exam": "0",
+                    "course": "Sisteme de operare",
+                    "student": {
+                        "firstName": "Iulian",
+                        "lastName": "Iancu"
+                    }
+                }
+                ,
+                {
+                    "partial": "0.0",
+                    "exam": "0",
+                    "course": "Sisteme de operare",
+                    "student": {
+                        "firstName": "Sofia",
+                        "lastName": "Negoita"
+                    }
+                }
+                ,
+                {
+                    "partial": "0.0",
+                    "exam": "0",
+                    "course": "Sisteme de operare",
+                    "student": {
+                        "firstName": "Alma",
+                        "lastName": "Dobrica"
+                    }
+                }
+                ,
+                {
+                    "partial": "0.0",
+                    "exam": "0",
+                    "course": "Sisteme de operare",
+                    "student": {
+                        "firstName": "Cristian",
+                        "lastName": "Manole"
+                    }
+                }
+                ,
+                {
+                    "partial": "0.0",
+                    "exam": "0",
+                    "course": "Sisteme de operare",
+                    "student": {
+                        "firstName": "Denisa",
+                        "lastName": "Pavel"
+                    }
+                }
+                ,
+                {
+                    "partial": "0.0",
+                    "exam": "0",
+                    "course": "Sisteme de operare",
+                    "student": {
+                        "firstName": "Alex",
+                        "lastName": "Petrescu"
+                    }
+                }
+                ,
+                {
+                    "partial": "0.0",
+                    "exam": "0",
+                    "course": "Sisteme de operare",
+                    "student": {
+                        "firstName": "Cosmin",
+                        "lastName": "Tomulescu"
+                    }
+                },
+                {
+                    "partial": "0.0",
+                    "exam": "0",
+                    "course": "Sisteme de operare",
+                    "student": {
+                        "firstName": "Camelia",
+                        "lastName": "Tunaru"
+                    }
+                }
+            ],
+            "groups": [
+                {
+                    "id": "311CC",
+                    "assistant": {
+                        "firstName": "Alma",
+                        "lastName": "Toma"
+                    },
+                    "students": [
+                        {
+                            "firstName": "Livia",
+                            "lastName": "Ursu"
+                        },
+                        {
+                            "firstName": "Alfred",
+                            "lastName": "Pop"
+                        }
+                        ,
+                        {
+                            "firstName": "Iulian",
+                            "lastName": "Iancu"
+                        } ,
+                        {
+                            "firstName": "Sofia",
+                            "lastName": "Negoita"
+                        }
+                        ,
+                        {
+                            "firstName": "Alma",
+                            "lastName": "Dobrica"
+                        }
+                    ]
+                },
+                {
+                    "id": "313CC",
+                    "assistant": {
+                        "firstName": "Cornel",
+                        "lastName": "Cosma"
+                    },
+                    "students": [
+                       
+                        {
+                            "firstName": "Cristian",
+                            "lastName": "Manole"
+                        } ,
+                        {
+                            "firstName": "Denisa",
+                            "lastName": "Pavel"
+                        } ,
+                        {
+                            "firstName": "Alex",
+                            "lastName": "Petrescu"
+                        } ,
+                        {
+                            "firstName": "Cosmin",
+                            "lastName": "Tomulescu"
+                        }
+                        ,
+                        {
+                            "firstName": "Camelia",
+                            "lastName": "Tunaru"
+                        }
+                    ]
+                }
+            ]
+        }
+        
+    ]
+}
